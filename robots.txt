@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vaibhavi2165.github.io/devprep/sitemap.xml
